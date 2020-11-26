@@ -4,7 +4,7 @@ I want to make a Python based 3-dimensional chess game. I want to experiment wit
 
 ## Potential Views
 - Click-and-Drag 3d orbit view
--- Highlight possible moves for a piece
+  - Highlight possible moves for a piece
 - Vertical/Horizontal cross-section views
 
 ## Background
